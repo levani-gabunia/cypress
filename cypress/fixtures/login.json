@@ -1,0 +1,12 @@
+{
+    "validuser": {
+        "userName": "anichkaanichka",
+        "email": "animikadze77@gmail.com",
+        "password": "12345678"
+    },
+    "noreguser": {
+        "userName": "anichkaanichka",
+        "email": "ani@gmail.com",
+        "password": "87654321"
+    }
+}
